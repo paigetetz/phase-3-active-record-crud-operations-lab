@@ -50,10 +50,5 @@ def self.delete_all_movies
     Movie.destroy_all
 end
 
-
-
-
-
-
 #end class
 end
